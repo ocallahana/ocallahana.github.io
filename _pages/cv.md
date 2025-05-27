@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Environmental Dynamics, University of Arkansas, December 2025 (expected)
+* Graduate Certificate in Geographic Information Systems, University of Arkansas, December 2025 (expected)
+* Graduate Certificate in Sustainability, University of Arkansas, Spring 2022
+* B.S. in Biology, minors in Chemistry & Philosophy, St. Peter's University, 2019
 
 Work experience
 ======
@@ -61,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*
