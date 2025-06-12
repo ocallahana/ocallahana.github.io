@@ -37,6 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-0601-2235"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  inaturalist      : "https://www.inaturalist.org/people/1717877"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -59,7 +60,7 @@ author:
   linkedin         : alexis-o-callahan
   mastodon         : # URL
   medium           : ajwhale
-  inaturalist      : 1717877
+  
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
